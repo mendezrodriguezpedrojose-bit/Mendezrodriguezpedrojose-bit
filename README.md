@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hola, soy [Tu Nombre] 👋</h1>
+  <h1>Hola, soy Pedro Mendez 👋</h1>
   <h3>Ingeniero Electrónico en Computación | Desarrollador de Hardware & Software</h3>
   <p>Soy un profesional apasionado por la intersección entre el mundo físico (hardware) y el lógico (software). Me dedico a diseñar soluciones integrales; desde el diseño de PCBs y la programación de sistemas embebidos, hasta la arquitectura de datos, el control y la conectividad IoT.</p>
 </div>
