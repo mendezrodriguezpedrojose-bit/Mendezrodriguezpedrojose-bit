@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hola, soy Pedro Mendez 👋</h1>
+  <h1>Hola, soy [Tu Nombre] 👋</h1>
   <h3>Ingeniero Electrónico en Computación | Desarrollador de Hardware & Software</h3>
   <p>Soy un profesional apasionado por la intersección entre el mundo físico (hardware) y el lógico (software). Me dedico a diseñar soluciones integrales; desde el diseño de PCBs y la programación de sistemas embebidos, hasta la arquitectura de datos, el control y la conectividad IoT.</p>
 </div>
@@ -39,11 +39,24 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 📊 System Metrics // GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8&bg_color=0F172A" height="150" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8&text_color=94A3B8&bg_color=0F172A" height="150" alt="Lenguajes Populares" />
+  <!-- Reemplaza "eddiejaoude" con tu usuario de GitHub real -->
+  <a href="https://github.com/eddiejaoude">
+    <img width="48.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eddiejaoude&theme=tokyonight" alt="Estadísticas de GitHub" />
+  </a>
+  <a href="https://github.com/eddiejaoude">
+    <img width="48.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eddiejaoude&theme=tokyonight" alt="Lenguajes Populares" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/eddiejaoude">
+    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=eddiejaoude&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=bf91f3&area=true&hide_border=true" alt="Activity Graph" />
+  </a>
+</p>
+<p align="center">
+  <sub style="color: #64748b; font-family: monospace;">* System Status: Active // Nota: Reemplaza <code>eddiejaoude</code> en las URLs con tu nombre de usuario real de GitHub.</sub>
 </p>
 
 ---
