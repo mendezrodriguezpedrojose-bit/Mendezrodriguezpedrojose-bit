@@ -20,22 +20,29 @@
 
 **💻 Lenguajes y Software:**
 <p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,git,linux" />
+  </a>
+  <a href="https://flet.dev">
+    <img src="https://flet.dev/img/logo.svg" alt="Flet" width="48" height="48" style="vertical-align: top;" />
+  </a>
 </p>
 
 ---
 
-### 🚀 Sobre Mí
+### 👾 Pizarra Pixel Art & Sobre Mí
 
-- 🔭 Actualmente enfocado en: **Sistemas embebidos de bajo consumo, automatización industrial e IoT**.
-- 🌱 Aprendiendo constantemente sobre: **FPGA, IA en el Borde (Edge AI) y Sistemas Operativos en Tiempo Real (RTOS)**.
-- 🤝 Dispuesto a colaborar en: **Proyectos de robótica moderna, integraciones de hardware libre y Open Source**.
-- ⚡ Dato curioso: *Pienso y razono en unos y ceros, pero compilar una idea temprana a veces requiere una buena taza de café.* ☕
+<div align="center">
+  <!-- 🎨 Aquí puedes poner el enlace a tu propia animación pixel art (.gif o .svg) -->
+  <img src="https://media.giphy.com/media/l41JSNj1vrXAGA2Z2/giphy.gif" alt="Pixel Art Animation" width="100%" style="border-radius: 8px; border: 2px solid #22d3ee; max-width: 100%;" />
+</div>
+
+<p align="center">
+  <br>
+  🔭 <b>Actualidad:</b> Sistemas embebidos de bajo consumo, automatización industrial e IoT.<br>
+  🌱 <b>Aprendiendo:</b> FPGA, Edge AI y RTOS.<br>
+  ⚡ <b>Dato curioso:</b> Pienso en unos y ceros, y mi imaginación renderiza en pixel art. ☕
+</p>
 
 ---
 
@@ -43,16 +50,16 @@
 
 <p align="center">
   <!-- Reemplaza "eddiejaoude" con tu usuario de GitHub real -->
-  <a href="https://github.com/eddiejaoude">
-    <img width="48.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eddiejaoude&theme=tokyonight" alt="Estadísticas de GitHub" />
+  <a href="https://github.com/eddiejaoude" class="stats-card">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eddiejaoude&theme=transparent" alt="Estadísticas de GitHub" />
   </a>
-  <a href="https://github.com/eddiejaoude">
-    <img width="48.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eddiejaoude&theme=tokyonight" alt="Lenguajes Populares" />
+  <a href="https://github.com/eddiejaoude" class="stats-card">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eddiejaoude&theme=transparent" alt="Lenguajes Populares" />
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/eddiejaoude">
-    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=eddiejaoude&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=bf91f3&area=true&hide_border=true" alt="Activity Graph" />
+  <a href="https://github.com/eddiejaoude" class="stats-card">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=eddiejaoude&theme=transparent&hide_border=true&ring=22d3ee&fire=22d3ee&currStreakNum=f8fafc&sideNums=f8fafc&currStreakLabel=94a3b8&sideLabels=94a3b8&dates=64748b" alt="Racha de Contribuciones" />
   </a>
 </p>
 <p align="center">
