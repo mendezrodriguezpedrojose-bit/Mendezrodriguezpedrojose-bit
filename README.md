@@ -1,58 +1,40 @@
-<!-- 
-  ======================================================
-  PERFIL INGENIERÍA ELECTRÓNICA Y COMPUTACIÓN
-  ======================================================
--->
-<div align="center">
-  <h1>Hola, soy Pedro José 👋</h1>
-  <h3>⚡ Ingeniero Electrónico en Computación | Hardware & Firmware Developer</h3>
-  <p>Construyendo la intersección perfecta entre circuitos físicos y código lógico de bajo nivel.</p>
-</div>
+# ⚡ Pedro Mendez | Computer & Electronics Engineer
+> Ingeniero de Computación y Electrónica especializado en automatización y desarrollo con Python.
 
-<br/>
+---
 
-### 🚀 Sobre Mí
-- 🔭 Actualmente trabajando en la automatización y desarrollo de **sistemas embebidos y soluciones IoT**.
-- 🌱 Especializándome en **diseño de PCBs, Microcontroladores (ESP32, STM32) y RTOS**.
-- 💻 Programando en **C/C++, Python y Rust** para crear puentes entre la electrónica y el software moderno.
-- ⚡ Filosofía: *El buen hardware necesita excelente software, y viceversa.*
+### 👤 Sobre mí
+Ingeniero enfocado en la creación de soluciones técnicas eficientes y estéticas. Mi objetivo es optimizar la interacción entre el hardware y el software mediante herramientas de alto rendimiento y diseño intuitivo.
 
-<br/>
+- 🚀 **Proyecto actual:** Desarrollo de dashboards industriales con **Flet**.
+- 🛠️ **Especialidad:** Automatización de procesos, mantenimiento electrónico y UI/UX técnico.
+- 📍 **Ubicación:** Lara, Venezuela.
 
-### 🛠️ Hardware & Código
+---
 
-**Arquitectura & Sistemas Electrónicos**
-<p>
-  <img src="https://img.shields.io/badge/PCB_Design-00599C?style=flat-square&logo=altiumdesigner&logoColor=white" alt="PCB Design"/>
-  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino"/>
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
-  <img src="https://img.shields.io/badge/FPGA-000000?style=flat-square&logo=intel&logoColor=white" alt="FPGA" />
+### 💻 Technical Stack
+| Área | Tecnologías |
+| :--- | :--- |
+| **Lenguajes** | `Python` `SQL` `C++` `Bash` |
+| **Frameworks** | `Flet (Flutter for Python)` `Pandas` `Tkinter` |
+| **Sistemas** | `Industrial Automation` `Linux` `Hardware Diagnostics` |
+
+---
+
+### 🛠️ Proyectos Destacados
+*   **[CyberPulse]** - Dashboard de monitoreo de recursos de PC con estética industrial.
+*   **[Automation Suite]** - Scripts de optimización y diagnóstico de hardware.
+*   **[Data Sync]** - Herramienta de gestión y sincronización de bases de datos.
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=transparent&hide_border=true&title_color=00d1ff&text_color=ffffff&icon_color=00d1ff" alt="Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=transparent&hide_border=true&title_color=00d1ff&text_color=ffffff" alt="Langs" height="150" />
 </p>
 
-**Firmware & Software Backend**
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/FreeRTOS-000000?style=flat-square&logo=rtos&logoColor=white" alt="RTOS" />
-</p>
+---
 
-<br/>
-
-### 📂 Proyectos Destacados
-| Proyecto | Descripción | Stack Tecnológico |
-| :--- | :--- | :--- |
-| 🔌 **[Sistema Controlador IoT](#)** | Módulo domótico inteligente con telemetría en la nube y control local | `ESP32` `C++` `MQTT` |
-| 📟 **[PCB para Teclado Custom](#)** | Diseño desde cero de ruteo, esquemático de un PCB multicapa mecánico | `KiCad` `C` `QMK` |
-| 🤖 **[Cinemática Robótica](#)** | Sistema para controlar motores industriales y brazos robóticos en tiempo real | `STM32` `Python` |
-
-<br/>
-
-### 📫 Contacto y Redes
-<p align="left">
-  <a href="mailto:mendezrodriguezpedrojose@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/tu-perfil-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
-
+### 📫 Conectemos
+[LinkedIn](https://linkedin.com/in/tu-perfil) | [Email](mailto:tu-correo@ejemplo.com) | [Portfolio]
