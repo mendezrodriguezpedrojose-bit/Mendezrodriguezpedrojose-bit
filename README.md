@@ -1,80 +1,46 @@
-<div align="center">
-  <h1>Hola, soy [Tu Nombre] 👋</h1>
-  <h3>Ingeniero Electrónico en Computación | Desarrollador de Hardware & Software</h3>
-  <p>Soy un profesional apasionado por la intersección entre el mundo físico (hardware) y el lógico (software). Me dedico a diseñar soluciones integrales; desde el diseño de PCBs y la programación de sistemas embebidos, hasta la arquitectura de datos, el control y la conectividad IoT.</p>
-</div>
+<h1 align="center">Hola 👋, Soy Pedro Méndez</h1>
+<h3 align="center">Full Stack Engineer | Alta Escala y UI/UX de alto rendimiento</h3>
 
----
+<p align="center">Construyendo experiencias digitales impecables, accesibles e interactivas.</p>
 
-### 🛠 Herramientas y Tecnologías
-
-**⚡ Hardware y Automatización:**
-<p align="left">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" alt="Raspberry Pi" />
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
-  <img src="https://img.shields.io/badge/Verilog-121011?style=for-the-badge&logo=fpga&logoColor=white" alt="Verilog/VHDL" />
-  <img src="https://img.shields.io/badge/Altium_Designer-A5CD39?style=for-the-badge&logo=altium&logoColor=white" alt="Altium Designer" />
-  <img src="https://img.shields.io/badge/Proteus-000000?style=for-the-badge&logo=proteus&logoColor=white" alt="Proteus" />
-</p>
-
-**💻 Lenguajes y Software:**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,git,linux" />
+<p align="center">
+  <a href="https://pedromendez.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-020203?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://flet.dev">
-    <img src="https://flet.dev/img/logo.svg" alt="Flet" width="48" height="48" style="vertical-align: top;" />
+  <a href="mailto:mendezrodriguezpedrojose@gmail.com">
+    <img src="https://img.shields.io/badge/Email-020203?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Email"/>
   </a>
 </p>
 
 ---
 
-### 👾 Pizarra Pixel Art & Sobre Mí
-
-<div align="center">
-  <!-- 🎨 Aquí puedes poner el enlace a tu propia animación pixel art (.gif o .svg) -->
-  <img src="https://media.giphy.com/media/l41JSNj1vrXAGA2Z2/giphy.gif" alt="Pixel Art Animation" width="100%" style="border-radius: 8px; border: 2px solid #22d3ee; max-width: 100%;" />
-</div>
+### ⚡ Tech Stack & Herramientas
 
 <p align="center">
-  <br>
-  🔭 <b>Actualidad:</b> Sistemas embebidos de bajo consumo, automatización industrial e IoT.<br>
-  🌱 <b>Aprendiendo:</b> FPGA, Edge AI y RTOS.<br>
-  ⚡ <b>Dato curioso:</b> Pienso en unos y ceros, y mi imaginación renderiza en pixel art. ☕
+  <img src="https://img.shields.io/badge/TypeScript-020203?style=for-the-badge&logo=typescript&logoColor=3b82f6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-020203?style=for-the-badge&logo=react&logoColor=3b82f6" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-020203?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-020203?style=for-the-badge&logo=tailwind-css&logoColor=3b82f6" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Node.js-020203?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Rust-020203?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Go-020203?style=for-the-badge&logo=go&logoColor=3b82f6" alt="Go" />
+  <img src="https://img.shields.io/badge/Docker-020203?style=for-the-badge&logo=docker&logoColor=3b82f6" alt="Docker" />
 </p>
 
 ---
 
-### 📊 System Metrics // GitHub Stats
+### 📊 Mis Estadísticas en GitHub
+
+> 💡 **Nota:** Reemplaza `TU_USUARIO_AQUI` en todos los enlaces de abajo con tu usuario real.
 
 <p align="center">
-  <!-- Reemplaza "eddiejaoude" con tu usuario de GitHub real -->
-  <a href="https://github.com/eddiejaoude" class="stats-card">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eddiejaoude&theme=transparent" alt="Estadísticas de GitHub" />
-  </a>
-  <a href="https://github.com/eddiejaoude" class="stats-card">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eddiejaoude&theme=transparent" alt="Lenguajes Populares" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/eddiejaoude" class="stats-card">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=eddiejaoude&theme=transparent&hide_border=true&ring=22d3ee&fire=22d3ee&currStreakNum=f8fafc&sideNums=f8fafc&currStreakLabel=94a3b8&sideLabels=94a3b8&dates=64748b" alt="Racha de Contribuciones" />
-  </a>
-</p>
-<p align="center">
-  <sub style="color: #64748b; font-family: monospace;">* System Status: Active // Nota: Reemplaza <code>eddiejaoude</code> en las URLs con tu nombre de usuario real de GitHub.</sub>
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&bg_color=020203&title_color=3b82f6&text_color=9ca3af&icon_color=3b82f6&border_color=1e3a8a&border_radius=16&hide_title=true" alt="Estadísticas de GitHub" />
 </p>
 
----
-
-### 📫 Conecta Conmigo
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_AQUI&background=020203&border=1e3a8a&stroke=3b82f6&ring=3b82f6&fire=3b82f6&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=9ca3af&sideLabels=9ca3af&dates=9ca3af&border_radius=16&hide_title=true" alt="Racha en GitHub" />
+</p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/TU_ENLACE_AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:tu-correo@email.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&bg_color=020203&title_color=3b82f6&text_color=9ca3af&border_color=1e3a8a&border_radius=16&hide_title=true" alt="Lenguajes Populares" />
 </p>
