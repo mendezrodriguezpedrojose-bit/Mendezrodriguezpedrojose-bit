@@ -1,41 +1,34 @@
-<h1 align="center">👋 Hola, soy Pedro Mendez</h1>
-
-<h3 align="center">⚡ Ingeniero Electrónico en Computación</h3>
-
-<p align="center">
-  Ingeniero apasionado por la automatización y la optimización de sistemas. Con formación sólida en electrónica y computación, cuento con experiencia comprobada en el diagnóstico de hardware y el desarrollo de software a medida. Mi metodología de trabajo combina el rigor de la ingeniería con la agilidad del desarrollo moderno.
-</p>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Pedro+Mendez+👋;Electronic+%26+Computer+Engineer;Automation+Specialist" alt="Typing SVG" /></a>
+</div>
 
 <p align="center">
-  He liderado proyectos de monitoreo de recursos y mantenimiento técnico, garantizando siempre la continuidad operativa y la escalabilidad de las herramientas desarrolladas. Constantemente explorando nuevas fronteras en UI/UX técnico y arquitecturas de datos.
+  <a href="mailto:mendezrodriguezpedrojose@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836&labelColor=0D1117&border=1"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=0D1117&border=1"/></a>
 </p>
 
 ---
 
-### 🛠️ Lenguajes & Tecnologías
+> **Engineer passionate about automation and system optimization.**  
+> *With a solid background in electronics and computing, my methodology combines the rigor of engineering with the agility of modern development.*
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45" style="margin-right: 15px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45" style="margin-right: 15px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="45" height="45" style="margin-right: 15px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" width="45" height="45" />
-</p>
+### 🔭 Current Focus
+- ⚡ **Custom Development:** Software solutions for operational continuity.
+- 🔧 **Hardware Diagnostics:** Technical maintenance and resource optimization.
+- 💡 **Exploring:** Technical UI/UX and data architectures.
 
----
+<br>
 
-### 💼 Áreas de Experiencia
+<div align="center">
+  <h3><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" alt="💻" width="32" height="32" align="center" /> Core Stack</h3>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,sql,linux,bash,github&perline=8&theme=dark" />
+</div>
 
-- **Automatización**: Optimización de sistemas y flujos de trabajo de ingeniería.
-- **Hardware**: Diagnóstico exhaustivo de componentes y mantenimiento.
-- **Desarrollo a Medida**: Software modular (C#, Python, C++) con enfoque en UI/UX técnico.
-- **Arquitectura de Datos**: Bases de datos escalables para alta disponibilidad.
+<br>
 
----
-
-### 📊 Mis Estadísticas en GitHub
-
-*(Nota: Asegúrate de cambiar `TU_USUARIO_DE_GITHUB` por tu nombre de usuario real en el enlace de abajo para que las estadísticas funcionen)*
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="Pedro Mendez's GitHub Stats" />
-</p>
+<div align="center">
+  <h3><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4c8/512.gif" alt="📈" width="32" height="32" align="center" /> GitHub Dashboard</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mendezrodriguezpedrojose-bit&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8b949e&icon_color=39D353" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mendezrodriguezpedrojose-bit&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8b949e&icon_color=58A6FF&sideNums=c9d1d9&sideLabels=8b949e&ring=58A6FF&fire=39D353&currStreakNum=c9d1d9" alt="GitHub Streak" width="100%" />
+</div>
