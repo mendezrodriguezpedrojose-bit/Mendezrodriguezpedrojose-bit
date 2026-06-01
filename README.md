@@ -1,24 +1,41 @@
-# [Tu Nombre Completo] | Ingeniero Electrónico en Computación
+<h1 align="center">👋 Hola, soy Pedro Mendez</h1>
 
-[Ubicación] • [Correo] • [LinkedIn] • [Sitio web/Portafolio] • [GitHub]
+<h3 align="center">⚡ Ingeniero Electrónico en Computación</h3>
 
-<div align="left">
-  <!-- Opcional: banner minimalista de cabecera -->
-  <img src="URL_DE_TU_IMAGEN_DE_BANNER" alt="Banner profesional" style="width:100%; max-width:900px; height:auto;">
-</div>
+<p align="center">
+  Ingeniero apasionado por la automatización y la optimización de sistemas. Con formación sólida en electrónica y computación, cuento con experiencia comprobada en el diagnóstico de hardware y el desarrollo de software a medida. Mi metodología de trabajo combina el rigor de la ingeniería con la agilidad del desarrollo moderno.
+</p>
 
----
-
-## Sobre mí
-Soy Ingeniero Electrónico en Computación con enfoque en soluciones hardware-software eficientes y escalables. Me especializo en sistemas embebidos, diseño de hardware y desarrollo de firmware; busco proyectos que exijan rendimiento, claridad de código y fiabilidad.
+<p align="center">
+  He liderado proyectos de monitoreo de recursos y mantenimiento técnico, garantizando siempre la continuidad operativa y la escalabilidad de las herramientas desarrolladas. Constantemente explorando nuevas fronteras en UI/UX técnico y arquitecturas de datos.
+</p>
 
 ---
 
-## Habilidades técnicas
+### 🛠️ Lenguajes & Tecnologías
 
-- **Lenguajes de programación:** [C, C++, Python, Verilog/VHDL, Java, etc.]
-- **Hardware / Plataformas:** [Microcontroladores (STM32, ESP32), FPGA (Xilinx/Intel), Raspberry Pi, Arduino]
-- **Sistemas y herramientas:** [Linux, Git, Docker, RTOS, MATLAB/Simulink, LabVIEW]
-- **Desarrollo embarcado:** [Bare-metal, HAL/LL, RTOS, CI/CD para firmware]
-- **Redes y comunicaciones:** [I2C/SPI/UART, CAN, Ethernet, Wi-Fi, BLE]
-- **Otras habilidades:** [Diseño PCB, pruebas y validación, simulación de sistemas]
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45" style="margin-right: 15px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45" style="margin-right: 15px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="45" height="45" style="margin-right: 15px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" width="45" height="45" />
+</p>
+
+---
+
+### 💼 Áreas de Experiencia
+
+- **Automatización**: Optimización de sistemas y flujos de trabajo de ingeniería.
+- **Hardware**: Diagnóstico exhaustivo de componentes y mantenimiento.
+- **Desarrollo a Medida**: Software modular (C#, Python, C++) con enfoque en UI/UX técnico.
+- **Arquitectura de Datos**: Bases de datos escalables para alta disponibilidad.
+
+---
+
+### 📊 Mis Estadísticas en GitHub
+
+*(Nota: Asegúrate de cambiar `TU_USUARIO_DE_GITHUB` por tu nombre de usuario real en el enlace de abajo para que las estadísticas funcionen)*
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="Pedro Mendez's GitHub Stats" />
+</p>
