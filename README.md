@@ -1,11 +1,17 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2744,100:58A6FF&height=120&section=header&text=Pedro%20Mendez&fontColor=c9d1d9&fontSize=40&fontAlignY=65&fontFamily=JetBrains%20Mono&desc=Electronic%20%26%20Computer%20Engineer%20·%20Automation%20Specialist&descSize=14&descAlignY=85&descColor=58A6FF" width="100%" />
+
+  <!-- Nombre grande animado -->
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=48&duration=2500&pause=4000&color=C9D1D9&center=true&vCenter=true&width=700&height=80&lines=Pedro+Mendez" alt="Pedro Mendez" />
+
+  <!-- Rol con efecto typing -->
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=2000&color=58A6FF&center=true&vCenter=true&width=700&height=30&lines=Electronic+%26+Computer+Engineer+·+Automation+Specialist" alt="Role" />
+
 </div>
 
 <br>
 
-<!-- INTRO -->
+<!-- LINKS -->
 <div align="center">
   <a href="mailto:mendezrodriguezpedrojose@gmail.com">
     <img src="https://img.shields.io/badge/─%20Email%20─-0d1117?style=for-the-badge&logo=gmail&logoColor=D14836&labelColor=0d1117" />
@@ -22,8 +28,9 @@
 
 <br>
 
+<!-- BIO typing -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=50&lines=Engineer+passionate+about+automation+and+system+optimization.;Combining+engineering+rigor+with+agile+development." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=650&height=50&lines=Engineer+passionate+about+automation+and+system+optimization.;Combining+engineering+rigor+with+agile+development." alt="Bio" />
 </div>
 
 <br>
