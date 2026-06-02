@@ -29,7 +29,5 @@
 
 <div align="center">
   <h3><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4c8/512.gif" alt="📈" width="32" height="32" align="center" /> GitHub Dashboard</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=Mendezrodriguezpedrojose-bit&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8b949e&icon_color=39D353" />
-  <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mendezrodriguezpedrojose-bit&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8b949e&icon_color=58A6FF&sideNums=c9d1d9&sideLabels=8b949e&ring=58A6FF&fire=39D353&currStreakNum=c9d1d9" alt="GitHub Streak" width="100%" />
 </div>
