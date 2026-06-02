@@ -1,11 +1,8 @@
 <!-- HEADER -->
 <div align="center">
 
-  <!-- Nombre grande animado -->
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=48&duration=2500&pause=4000&color=C9D1D9&center=true&vCenter=true&width=700&height=80&lines=Pedro+Mendez" alt="Pedro Mendez" />
-
-  <!-- Rol con efecto typing -->
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=2000&color=58A6FF&center=true&vCenter=true&width=700&height=30&lines=Electronic+%26+Computer+Engineer+·+Automation+Specialist" alt="Role" />
+  <!-- Nombre y rol animados en un solo SVG -->
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=42&duration=3000&pause=3000&color=C9D1D9&center=true&vCenter=true&multiline=true&width=750&height=120&lines=Pedro+Mendez;Electronic+%26+Computer+Engineer;Automation+Specialist" alt="Pedro Mendez" />
 
 </div>
 
