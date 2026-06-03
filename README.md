@@ -11,7 +11,7 @@
 <!-- LINKS -->
 <div align="center">
   <a href="#">
-    <img src="https://img.shields.io/badge/─%20LinkedIn%20─-0d1117?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=0d1117" />
   </a>
 </div>
 
