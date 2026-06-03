@@ -10,16 +10,8 @@
 
 <!-- LINKS -->
 <div align="center">
-  <a href="mailto:mendezrodriguezpedrojose@gmail.com">
-    <img src="https://img.shields.io/badge/─%20Email%20─-0d1117?style=for-the-badge&logo=gmail&logoColor=D14836&labelColor=0d1117" />
-  </a>
-  &nbsp;
   <a href="#">
     <img src="https://img.shields.io/badge/─%20LinkedIn%20─-0d1117?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=0d1117" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Mendezrodriguezpedrojose-bit">
-    <img src="https://img.shields.io/badge/─%20GitHub%20─-0d1117?style=for-the-badge&logo=github&logoColor=c9d1d9&labelColor=0d1117" />
   </a>
 </div>
 
