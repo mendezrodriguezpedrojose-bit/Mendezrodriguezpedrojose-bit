@@ -75,13 +75,7 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mendezrodriguezpedrojose-bit&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9&icon_color=39D353&ring_color=58A6FF&hide_title=false&custom_title=pedro%40github%20~%20stats" width="48%" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mendezrodriguezpedrojose-bit&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9&langs_count=6&custom_title=pedro%40github%20~%20languages" width="48%" />
-</div>
 
-<br>
 
 ---
 
