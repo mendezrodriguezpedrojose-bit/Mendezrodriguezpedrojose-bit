@@ -70,7 +70,7 @@
 ### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4c8/512.gif" width="18" align="center" /> &nbsp;`// GitHub Dashboard`
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mendezrodriguezpedrojose-bit&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8b949e&icon_color=58A6FF&sideNums=c9d1d9&sideLabels=8b949e&ring=58A6FF&fire=39D353&currStreakNum=c9d1d9&currStreakLabel=58A6FF&dates=4a5568" alt="GitHub Streak" width="100%" />
+  <img src="https://streak-stats.demolab.com/?user=mendezrodriguezpedrojose-bit&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8b949e&icon_color=58A6FF&sideNums=c9d1d9&sideLabels=8b949e&ring=58A6FF&fire=39D353&currStreakNum=c9d1d9&currStreakLabel=58A6FF&dates=4a5568" alt="GitHub Streak" width="100%" />
 </div>
 
 <br>
