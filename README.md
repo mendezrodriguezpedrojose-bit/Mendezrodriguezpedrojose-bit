@@ -70,7 +70,7 @@
 ### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4c8/512.gif" width="18" align="center" /> &nbsp;`// GitHub Dashboard`
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mendezrodriguezpedrojose-bit&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8b949e&icon_color=58A6FF&sideNums=c9d1d9&sideLabels=8b949e&ring=58A6FF&fire=39D353&currStreakNum=c9d1d9&currStreakLabel=58A6FF&dates=4a5568" alt="GitHub Streak" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mendezrodriguezpedrojose-bit&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8b949e&icon_color=58A6FF&sideNums=c9d1d9&sideLabels=8b949e&ring=58A6FF&fire=39D353&currStreakNum=c9d1d9&currStreakLabel=58A6FF&dates=4a5568" alt="GitHub Streak" width="100%" />
 </div>
 
 <br>
@@ -83,7 +83,7 @@
 ### &nbsp;`// Activity`
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mendezrodriguezpedrojose-bit&bg_color=0d1117&color=58A6FF&line=58A6FF&point=39D353&area=true&area_color=1a2744&hide_border=true&custom_title=pedro%40github%20~%20contribution%20graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mendezrodriguezpedrojose-bit&bg_color=0d1117&color=58A6FF&line=58A6FF&point=39D353&area=true&area_color=1a2744&hide_border=true&custom_title=pedro%40github%20~%20contribution%20graph" width="100%" />
 </div>
 
 <br>
